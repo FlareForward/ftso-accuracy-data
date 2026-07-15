@@ -1,0 +1,599 @@
+{
+  "AAVE/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ADA/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-ada-usd-pib-w50-offs0p0-21821e8f",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ALGO/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "APT/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-apt-usd-pib-w50-offs0p0-afe3b081",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ARB/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-arb-usd-pib-w50-offs0p0-6f1d329a",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ATOM/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-atom-usd-pib-w50-offs0p0-03473dbb",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "AVAX/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "BCH/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-bch-usd-pib-w50-offs0p0-b0645313",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "BERA/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-bera-usd-pib-w50-offs0p0-9320b564",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "BNB/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-bnb-usd-pib-w65",
+        "state": "RE_VALIDATING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "BONK/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-bonk-usd-pib-w50-offs0p0-cd4b243e",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "BTC/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "DOGE/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "DOT/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ENA/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-ena-usd-pib-w50-offs0p0-43fa9285",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ETC/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-etc-usd-pib-w50-offs0p0-62e2e20c",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ETH/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ETHFI/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "FET/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "FIL/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-fil-usd-pib-w50-offs0p0-c6947a43",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "FLR/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-flr-usd-pib-w50-offs0p0-6ed8a666",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "GRAM/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-gram-usd-pib-w50-offs0p0-60c9f244",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "HBAR/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "HNT/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-hnt-usd-pib",
+        "state": "RUNNING"
+      },
+      {
+        "origin": "ff",
+        "slug": "pf2-hnt-usd-pib-w50-offs0p0-a656565e",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "HYPE/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-hype-usd-pib-w50-offs0p0-56643582",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ICP/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "JUP/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-jup-usd-pib-w50-offs0p0-b11d3b04",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "LEO/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-leo-usd-pib-w50-offs0p0-e0385c3e",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "LINK/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-link-usd-pib-w50-offs7p0-b6423342",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "LTC/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "MON/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-mon-usd-pib-w50-offs0p0-d934d2a3",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "NEAR/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-near-usd-pib-w50-offs0p0-b38f355d",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "NIGHT/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-night-usd-pib-w50-offs0p0-b8494610",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "NOT/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-not-usd-pib-w50-offs0p0-1060d2b5",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ONDO/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-ondo-usd-pib-w50-offs0p0-785a4e5b",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "OP/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "PAXG/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-paxg-usd-pib-w50-offs0p0-80fc5500",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "PENGU/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "PEPE/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "POL/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-pol-usd-pib-w50-offs0p0-db994259",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "PUMP/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-pump-usd-pib-w50-offs0p0-a250a957",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "PYTH/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-pyth-usd-pib-w50-offs0p0-7ced4cae",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "QNT/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "RENDER/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-render-usd-pib-w50-offs0p0-7d088def",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "RUNE/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-rune-usd-pib-w50-offs0p0-aadb652e",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "S/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-s-usd-pib-w35",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "SGB/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-sgb-usd-pib-w50-offs0p0-b33e8618",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "SHIB/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-shib-usd-pib-w50-offs0p0-6565d0a5",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "SOL/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-sol-usd-pib-w50-offs7p0-2ae34201",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "SUI/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-sui-usd-pib-w50-offs0p0-491afce7",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "TAO/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-tao-usd-pib-w50-offs0p0-482aeb09",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "TRUMP/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-trump-usd-pib-w65",
+        "state": "RUNNING"
+      },
+      {
+        "origin": "ff",
+        "slug": "pf2-trump-usd-pib-w50-offs0p0-95aed8aa",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "TRX/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-trx-usd-pib-w50-offs0p0-c211f2e2",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "UNI/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "USDC/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-usdc-usd-pib",
+        "state": "RE_VALIDATING"
+      },
+      {
+        "origin": "ff",
+        "slug": "pf-usdc-usd-pib-w35",
+        "state": "RE_VALIDATING"
+      },
+      {
+        "origin": "ff",
+        "slug": "pf2-usdc-usd-pib-w60-8429dcd9",
+        "state": "RE_VALIDATING"
+      },
+      {
+        "origin": "ff",
+        "slug": "pf2-usdc-usd-pib-w65-e33f54ee",
+        "state": "RE_VALIDATING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "USDS/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "USDT/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "USDX/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "WIF/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-wif-usd-pib-w35-d61ff090",
+        "state": "RE_VALIDATING"
+      },
+      {
+        "origin": "ff",
+        "slug": "pf2-wif-usd-pib-w50-offs0p0-a6682e43",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "XDC/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-xdc-usd-pib-w50-offs0p0-a61afc87",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "XLM/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-xlm-usd-pib-w50-offs0p0-46e6d739",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "XPL/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf2-xpl-usd-pib-w50-offs0p0-fa9eb4b6",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "XRP/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  }
+}
