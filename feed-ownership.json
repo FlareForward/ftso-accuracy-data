@@ -1,0 +1,383 @@
+{
+  "AAVE/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-aave-usd-debias-43ppm",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ADA/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ALGO/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "APT/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-apt-usd-debias-96ppm",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ARB/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ATOM/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "AVAX/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "BCH/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "BERA/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-bera-usd-debias-106ppm",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "BNB/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "BONK/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "BTC/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "DOGE/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "DOT/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-dot-usd-debias-60ppm",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ENA/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ETC/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ETH/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ETHFI/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "FET/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "FIL/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "FLR/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "GRAM/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "HBAR/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "HNT/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "HYPE/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ICP/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "JUP/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "LEO/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-leo-usd-debias-clamp999",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "LINK/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "LTC/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "MON/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-mon-usd-debias-123ppm",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "NEAR/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "NIGHT/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "NOT/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "ONDO/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "OP/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "PAXG/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-paxg-usd-debias-14ppm",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "PENGU/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "PEPE/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "POL/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "PUMP/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "PYTH/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "QNT/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "RENDER/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "RUNE/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "S/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "SGB/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "SHIB/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "SOL/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "SUI/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "TAO/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "TRUMP/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-trump-usd-debias-88ppm",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "TRX/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "UNI/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "USDC/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "USDS/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "USDT/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "USDX/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-usdx-usd-debias-clamp999",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "WIF/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "XDC/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-xdc-usd-debias-clamp999",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "XLM/USD": {
+    "challengers": [
+      {
+        "origin": "ff",
+        "slug": "pf-xlm-usd-debias-42ppm",
+        "state": "RUNNING"
+      }
+    ],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "XPL/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  },
+  "XRP/USD": {
+    "challengers": [],
+    "owner": "ff",
+    "status": "baseline"
+  }
+}
