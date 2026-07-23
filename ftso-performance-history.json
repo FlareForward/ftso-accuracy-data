@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "source": "derived_from_ftso_accuracy",
-  "generated_at_unix": 1784827957,
+  "generated_at_unix": 1784834088,
   "provider": {
     "name": "Flare Forward",
     "identity_address": "0x1FBB55a1877817A0f90cAE60c1ab22FC94f97110",
     "delegation_address": ""
   },
   "status": {
-    "submitting": false,
-    "reward_epoch_current": 417,
-    "reward_epoch_registered": false,
-    "gap_reason": "not in signing policy for reward epoch 417",
-    "expected_resume_utc": "2026-07-23T18:00:00Z"
+    "submitting": true,
+    "reward_epoch_current": 418,
+    "reward_epoch_registered": true,
+    "gap_reason": null,
+    "expected_resume_utc": null
   },
   "series": [
     {
@@ -59,6 +59,15 @@
       "submissions_count": 209916,
       "submissions_total": 211680,
       "uptime_pct": null
+    },
+    {
+      "reward_epoch": 418,
+      "bucket_start_unix": 1784834088,
+      "band_primary_pct": 32.88,
+      "band_secondary_pct": 86.17,
+      "submissions_count": 441,
+      "submissions_total": 211680,
+      "uptime_pct": 100
     }
   ],
   "uptime_observations": [
@@ -115,6 +124,12 @@
       "submitting": false,
       "registered": false,
       "reward_epoch": 417
+    },
+    {
+      "ts": 1784834088,
+      "submitting": true,
+      "registered": true,
+      "reward_epoch": 418
     }
   ]
 }
