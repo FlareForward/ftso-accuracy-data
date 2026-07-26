@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "derived_from_ftso_accuracy",
-  "generated_at_unix": 1785028298,
+  "generated_at_unix": 1785041858,
   "provider": {
     "name": "Flare Forward",
     "identity_address": "0x1FBB55a1877817A0f90cAE60c1ab22FC94f97110",
@@ -36,37 +36,37 @@
     {
       "reward_epoch": 414,
       "bucket_start_unix": 1783856158,
-      "band_primary_pct": 23.75,
-      "band_secondary_pct": 88.25,
+      "band_primary_pct": 23.781179138321995,
+      "band_secondary_pct": 93.17507558578987,
       "submissions_count": 211680,
       "submissions_total": 211680,
-      "uptime_pct": null
+      "uptime_pct": 100
     },
     {
       "reward_epoch": 415,
       "bucket_start_unix": 1784158558,
-      "band_primary_pct": 26.85,
-      "band_secondary_pct": 85.62,
+      "band_primary_pct": 26.79232804232804,
+      "band_secondary_pct": 91.81831065759637,
       "submissions_count": 211302,
       "submissions_total": 211680,
-      "uptime_pct": null
+      "uptime_pct": 99.64285714285714
     },
     {
       "reward_epoch": 416,
       "bucket_start_unix": 1784460958,
-      "band_primary_pct": 29.2,
-      "band_secondary_pct": 88.09,
+      "band_primary_pct": 28.947940287226004,
+      "band_secondary_pct": 92.50803099017385,
       "submissions_count": 209916,
       "submissions_total": 211680,
-      "uptime_pct": null
+      "uptime_pct": 99.04761904761905
     },
     {
       "reward_epoch": 418,
       "bucket_start_unix": 1784834088,
-      "band_primary_pct": 30.66,
-      "band_secondary_pct": 88.46,
-      "submissions_count": 136332,
-      "submissions_total": 136332,
+      "band_primary_pct": 30.77,
+      "band_secondary_pct": 88.6,
+      "submissions_count": 145845,
+      "submissions_total": 145845,
       "uptime_pct": 100
     }
   ],
@@ -331,6 +331,12 @@
     },
     {
       "ts": 1785028298,
+      "submitting": true,
+      "registered": true,
+      "reward_epoch": 418
+    },
+    {
+      "ts": 1785041858,
       "submitting": true,
       "registered": true,
       "reward_epoch": 418
