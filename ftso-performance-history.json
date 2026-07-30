@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "derived_from_ftso_accuracy",
-  "generated_at_unix": 1785433068,
+  "generated_at_unix": 1785439825,
   "provider": {
     "name": "Flare Forward",
     "identity_address": "0x1FBB55a1877817A0f90cAE60c1ab22FC94f97110",
@@ -9,7 +9,7 @@
   },
   "status": {
     "submitting": true,
-    "reward_epoch_current": 419,
+    "reward_epoch_current": 420,
     "reward_epoch_registered": true,
     "gap_reason": null,
     "expected_resume_utc": null
@@ -36,17 +36,17 @@
     {
       "reward_epoch": 414,
       "bucket_start_unix": 1783856158,
-      "band_primary_pct": 23.75,
-      "band_secondary_pct": 88.25,
-      "submissions_count": 211680,
+      "band_primary_pct": 23.76,
+      "band_secondary_pct": 88.24,
+      "submissions_count": 210420,
       "submissions_total": 211680,
       "uptime_pct": 100
     },
     {
       "reward_epoch": 415,
       "bucket_start_unix": 1784158558,
-      "band_primary_pct": 26.79232804232804,
-      "band_secondary_pct": 91.81831065759637,
+      "band_primary_pct": 26.85,
+      "band_secondary_pct": 85.62,
       "submissions_count": 211302,
       "submissions_total": 211680,
       "uptime_pct": 99.64285714285714
@@ -72,10 +72,19 @@
     {
       "reward_epoch": 419,
       "bucket_start_unix": 1785140308,
-      "band_primary_pct": 29.79,
-      "band_secondary_pct": 83.09,
-      "submissions_count": 208152,
-      "submissions_total": 208152,
+      "band_primary_pct": 32.862811791383216,
+      "band_secondary_pct": 91.08654572940287,
+      "submissions_count": 211680,
+      "submissions_total": 211680,
+      "uptime_pct": 100
+    },
+    {
+      "reward_epoch": 420,
+      "bucket_start_unix": 1785439825,
+      "band_primary_pct": 31.37,
+      "band_secondary_pct": 85.8,
+      "submissions_count": 1197,
+      "submissions_total": 1197,
       "uptime_pct": 100
     }
   ],
@@ -691,6 +700,12 @@
       "submitting": true,
       "registered": true,
       "reward_epoch": 419
+    },
+    {
+      "ts": 1785439825,
+      "submitting": true,
+      "registered": true,
+      "reward_epoch": 420
     }
   ]
 }
