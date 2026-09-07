@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "derived_from_ftso_accuracy",
-  "generated_at_unix": 1788803318,
+  "generated_at_unix": 1788815766,
   "provider": {
     "name": "Flare Forward",
     "identity_address": "0x1FBB55a1877817A0f90cAE60c1ab22FC94f97110",
@@ -138,7 +138,7 @@
       "band_primary_pct": 21.17,
       "band_secondary_pct": 67.36,
       "submissions_count": 208320,
-      "submissions_total": 211680,
+      "submissions_total": 208320,
       "uptime_pct": 100
     },
     {
@@ -147,7 +147,7 @@
       "band_primary_pct": 34.733582949308754,
       "band_secondary_pct": 94.24443164362519,
       "submissions_count": 208256,
-      "submissions_total": 211680,
+      "submissions_total": 208320,
       "uptime_pct": 99.88095238095238
     },
     {
@@ -156,7 +156,7 @@
       "band_primary_pct": 35.174731182795696,
       "band_secondary_pct": 94.44988479262673,
       "submissions_count": 208320,
-      "submissions_total": 211680,
+      "submissions_total": 208320,
       "uptime_pct": 100
     },
     {
@@ -165,7 +165,7 @@
       "band_primary_pct": 35.398905529953915,
       "band_secondary_pct": 94.13114439324117,
       "submissions_count": 207951,
-      "submissions_total": 211680,
+      "submissions_total": 208320,
       "uptime_pct": 99.82142857142857
     },
     {
@@ -174,16 +174,16 @@
       "band_primary_pct": 35.41138632872504,
       "band_secondary_pct": 94.86655145929339,
       "submissions_count": 208692,
-      "submissions_total": 211680,
+      "submissions_total": 208692,
       "uptime_pct": 100
     },
     {
       "reward_epoch": 431,
       "bucket_start_unix": 1788783921,
-      "band_primary_pct": 32.99,
-      "band_secondary_pct": 89.57,
-      "submissions_count": 26722,
-      "submissions_total": 26722,
+      "band_primary_pct": 32.97,
+      "band_secondary_pct": 89.93,
+      "submissions_count": 35278,
+      "submissions_total": 35278,
       "uptime_pct": 100
     }
   ],
@@ -5224,6 +5224,12 @@
     },
     {
       "ts": 1788803318,
+      "submitting": true,
+      "registered": true,
+      "reward_epoch": 431
+    },
+    {
+      "ts": 1788815766,
       "submitting": true,
       "registered": true,
       "reward_epoch": 431
