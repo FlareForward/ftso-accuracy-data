@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "derived_from_ftso_accuracy",
-  "generated_at_unix": 1788892539,
+  "generated_at_unix": 1788903002,
   "provider": {
     "name": "Flare Forward",
     "identity_address": "0x1FBB55a1877817A0f90cAE60c1ab22FC94f97110",
@@ -144,17 +144,17 @@
     {
       "reward_epoch": 427,
       "bucket_start_unix": 1787556168,
-      "band_primary_pct": 34.733582949308754,
-      "band_secondary_pct": 94.24443164362519,
+      "band_primary_pct": 31.39,
+      "band_secondary_pct": 88.14,
       "submissions_count": 208256,
       "submissions_total": 208320,
-      "uptime_pct": 99.88095238095238
+      "uptime_pct": 100
     },
     {
       "reward_epoch": 428,
       "bucket_start_unix": 1787862113,
-      "band_primary_pct": 35.174731182795696,
-      "band_secondary_pct": 94.44988479262673,
+      "band_primary_pct": 32.15,
+      "band_secondary_pct": 90.37,
       "submissions_count": 208320,
       "submissions_total": 208320,
       "uptime_pct": 100
@@ -162,17 +162,17 @@
     {
       "reward_epoch": 429,
       "bucket_start_unix": 1788182258,
-      "band_primary_pct": 35.398905529953915,
-      "band_secondary_pct": 94.13114439324117,
+      "band_primary_pct": 32.25,
+      "band_secondary_pct": 89.5,
       "submissions_count": 207951,
       "submissions_total": 208320,
-      "uptime_pct": 99.82142857142857
+      "uptime_pct": 100
     },
     {
       "reward_epoch": 430,
       "bucket_start_unix": 1788467360,
-      "band_primary_pct": 35.41138632872504,
-      "band_secondary_pct": 94.86655145929339,
+      "band_primary_pct": 32.76,
+      "band_secondary_pct": 90.52,
       "submissions_count": 208692,
       "submissions_total": 208692,
       "uptime_pct": 100
@@ -180,10 +180,10 @@
     {
       "reward_epoch": 431,
       "bucket_start_unix": 1788783921,
-      "band_primary_pct": 33.12,
-      "band_secondary_pct": 89.91,
-      "submissions_count": 88164,
-      "submissions_total": 88164,
+      "band_primary_pct": 33.13,
+      "band_secondary_pct": 89.97,
+      "submissions_count": 95356,
+      "submissions_total": 95356,
       "uptime_pct": 100
     }
   ],
@@ -5266,6 +5266,12 @@
     },
     {
       "ts": 1788892539,
+      "submitting": true,
+      "registered": true,
+      "reward_epoch": 431
+    },
+    {
+      "ts": 1788903002,
       "submitting": true,
       "registered": true,
       "reward_epoch": 431
