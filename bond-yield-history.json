@@ -1,5 +1,5 @@
 {
-  "updated_at_unix": 1789172353,
+  "updated_at_unix": 1789192104,
   "identity_address": "0x1FBB55a1877817A0f90cAE60c1ab22FC94f97110",
   "note": "Measured per-reward-epoch bond performance, appended forward. The Flare Systems Explorer retains only the latest epoch, so this log is the record. No projections are stored.",
   "epochs": [
@@ -176,7 +176,7 @@
     },
     {
       "reward_epoch": 431,
-      "observed_at_unix": 1789172353,
+      "observed_at_unix": 1789192104,
       "treasury_wflr_flr": 2544972.296490833,
       "lot_unswept_flr": 49999.99999999999,
       "treasury_delegated_bips_to_us": 10000,
