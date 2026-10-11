@@ -1,5 +1,5 @@
 {
-  "updated_at_unix": 1791733349,
+  "updated_at_unix": 1791749898,
   "identity_address": "0x1FBB55a1877817A0f90cAE60c1ab22FC94f97110",
   "note": "Measured per-reward-epoch bond performance, appended forward. The Flare Systems Explorer retains only the latest epoch, so this log is the record. No projections are stored.",
   "epochs": [
@@ -328,13 +328,13 @@
     },
     {
       "reward_epoch": 439,
-      "observed_at_unix": 1791733349,
+      "observed_at_unix": 1791749898,
       "treasury_wflr_flr": 0.997,
       "lot_unswept_flr": 0,
       "treasury_delegated_bips_to_us": 10000,
       "self_bond_flr": 4832630,
-      "delegated_stake_flr": 67435086.66,
-      "total_stake_flr": 72267716.66,
+      "delegated_stake_flr": 66923696.66,
+      "total_stake_flr": 71756326.66,
       "self_bond_earnings_flr": 1310.136415576132,
       "staking_rewards_flr": 52992.48532394268,
       "delegation_rewards_flr": 6975.1471096267505,
