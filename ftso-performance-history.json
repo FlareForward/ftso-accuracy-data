@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "derived_from_ftso_accuracy",
-  "generated_at_unix": 1793735989,
+  "generated_at_unix": 1793736608,
   "provider": {
     "name": "Flare Forward",
     "identity_address": "0x1FBB55a1877817A0f90cAE60c1ab22FC94f97110",
@@ -324,10 +324,10 @@
     {
       "reward_epoch": 447,
       "bucket_start_unix": 1793603373,
-      "band_primary_pct": 25.1,
+      "band_primary_pct": 25.09,
       "band_secondary_pct": 91.23,
-      "submissions_count": 91580,
-      "submissions_total": 91580,
+      "submissions_count": 92014,
+      "submissions_total": 92014,
       "uptime_pct": 100
     }
   ],
@@ -12784,6 +12784,12 @@
     },
     {
       "ts": 1793735989,
+      "submitting": true,
+      "registered": true,
+      "reward_epoch": 447
+    },
+    {
+      "ts": 1793736608,
       "submitting": true,
       "registered": true,
       "reward_epoch": 447
