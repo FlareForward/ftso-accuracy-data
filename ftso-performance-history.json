@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "source": "derived_from_ftso_accuracy",
-  "generated_at_unix": 1795115321,
+  "generated_at_unix": 1795116581,
   "provider": {
     "name": "Flare Forward",
     "identity_address": "0x1FBB55a1877817A0f90cAE60c1ab22FC94f97110",
@@ -324,8 +324,8 @@
     {
       "reward_epoch": 447,
       "bucket_start_unix": 1793603373,
-      "band_primary_pct": 31.633064516129032,
-      "band_secondary_pct": 95.68980414746544,
+      "band_primary_pct": 24.79,
+      "band_secondary_pct": 90.68,
       "submissions_count": 208264,
       "submissions_total": 208320,
       "uptime_pct": 100
@@ -360,19 +360,19 @@
     {
       "reward_epoch": 451,
       "bucket_start_unix": 1794812810,
-      "band_primary_pct": 28.23,
-      "band_secondary_pct": 91.68,
+      "band_primary_pct": 34.411002304147466,
+      "band_secondary_pct": 95.5793970814132,
       "submissions_count": 208258,
       "submissions_total": 208320,
-      "uptime_pct": 100
+      "uptime_pct": 99.94047619047619
     },
     {
       "reward_epoch": 452,
       "bucket_start_unix": 1795115321,
-      "band_primary_pct": 29.23,
-      "band_secondary_pct": 93.15,
-      "submissions_count": 248,
-      "submissions_total": 248,
+      "band_primary_pct": 29.84,
+      "band_secondary_pct": 92.92,
+      "submissions_count": 1116,
+      "submissions_total": 1116,
       "uptime_pct": 100
     }
   ],
@@ -21481,6 +21481,12 @@
     },
     {
       "ts": 1795115321,
+      "submitting": true,
+      "registered": true,
+      "reward_epoch": 452
+    },
+    {
+      "ts": 1795116581,
       "submitting": true,
       "registered": true,
       "reward_epoch": 452
